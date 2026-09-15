@@ -1,4 +1,3 @@
-# Gaussian_Blur_Implementation
 GAUSSIAN BLUR + OPENMP IMPLEMENTATION
 ======================================
 
