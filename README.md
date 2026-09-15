@@ -77,7 +77,9 @@ Throughput = Number of processed pixels / Execution Time
 
 For an image of W x H:
 Number of processed pixels = W * H
+
 //Result to be calculated
+
 9. Result table
 ---------------
 Algorithm: Gaussian Blur
